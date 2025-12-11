@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a file extension searcher in the erlang language. You provide the paths to the folders you want to search for a specific file extension, then you have the result of all the files logged into stdout. 
+This is a local file extension searcher in Erlang. You provide the paths to the folders you want to search for a specific file extension, then you have the result of all the files logged into stdout. 
 
 Features include:
 - [x] Local file search based on regex expressions.
