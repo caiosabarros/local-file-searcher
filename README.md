@@ -50,4 +50,4 @@ This project uses some of Erlang's basic functionality and concepts, like the fo
 
 Additionally, it makes use of the:
 
--[x] `case of` coding block
+- [x] `case of` coding block
